@@ -28,7 +28,7 @@
     "deploy": "gh-pages -d build",
     "lint": "eslint src/**/*.js src/**/*.jsx"
   },
-  "homepage": "https://username.github.io/app-toot-name",
+  "homepage": "https://ViParis0.github.io/app-toot-name",
   "eslintConfig": {
     "extends": [
       "react-app",
