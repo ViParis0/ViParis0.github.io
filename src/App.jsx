@@ -11,8 +11,6 @@ import eu from './eu3x4.png';
 import { aboutPt1, aboutPt2, aboutPt3 } from './helpers/aboutText';
 import projetos from './helpers/projects';
 
-// teste
-
 function App() {
   const [projects, setProjects] = useState([]);
   const [currProject, setCurrProjects] = useState(0);
